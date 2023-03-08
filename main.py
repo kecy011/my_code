@@ -7,3 +7,5 @@ for i in nums:
     else:
         break
 print(sum_nums)
+print("end of the loop.....")
+
